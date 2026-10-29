@@ -1,6 +1,5 @@
-[Italiano](#italiano) · [English](#english)
+🇬🇧 [English summary below](#english)
 
-<a name="italiano"></a>
 # Ciao 👋 Sono Fabrizio
 
 ## Product Owner & Chief Unblocking Officer
@@ -11,13 +10,22 @@
 
 💬 Cerchi un Product Owner che faccia parlare tecnici e business? [Scrivimi su LinkedIn!](https://www.linkedin.com/in/fquagliocotti)
 
-<img src="i-got-it.gif" width="400" alt="I got it!">
+### 🛠️ Cosa ho costruito
+
+- **[lead-qualifier](https://github.com/Surfab/lead-qualifier)**: decide se un potenziale cliente vale il primo contatto, con criteri fissi e fonti verificabili. `Claude` `Agent Skills`
+- **[AI Decision Tree](https://github.com/Surfab/ai-decision-tree)**: valuta se e come adottare l'AI in un processo (fit, readiness, rischio) e scrive il memo per la direzione. `HTML/JS` `offline-first` · [demo](https://surfab.github.io/ai-decision-tree/)
+- **[Product Discovery Canvas](https://github.com/Surfab/product-discovery-canvas)**: porta la discovery dagli obiettivi agli esperimenti, con matrice impatto/sforzo. `HTML/JS` `offline-first` · [demo](https://surfab.github.io/product-discovery-canvas/)
+- **[Cinema a Bologna](https://github.com/Surfab/cinema-bologna)**: gli orari dei 21 cinema della città in una pagina che si aggiorna da sola due volte al giorno. `Python` `GitHub Actions` · [demo](https://surfab.github.io/cinema-bologna/)
+
+### 🙋 Su di me
 
 - 🌍 Vivo a Bologna, lavoro in ibrido
 - 🐍 Python da autodidatta (non diventerò uno sviluppatore, ma ora capisco cosa mi dicono)
 - 🗣️ Lavoro in italiano e in inglese, che scrivo meglio di quanto lo parli
 - 🤝 Aperto a collaborare su skill e automazioni con Claude
 - ⚡ 🏄 Windsurf | 🍺 Birra artigianale | 🍎 Mondo Apple | 📚 Libri
+
+<img src="i-got-it.gif" width="400" alt="I got it!">
 
 ### Dove mi trovi
 
@@ -26,22 +34,6 @@
 ---
 
 <a name="english"></a>
-# Hi 👋 I'm Fabrizio
+### 🇬🇧 In English
 
-## Product Owner & Chief Unblocking Officer
-
-🔭 I bring data and AI systems into production, where mistakes are expensive
-
-🤓 Here you'll find the tools I build with Claude and Python for everyday work
-
-💬 Looking for a Product Owner who gets tech and business talking? [Message me on LinkedIn!](https://www.linkedin.com/in/fquagliocotti)
-
-- 🌍 Based in Bologna, Italy, working hybrid
-- 🐍 Self-taught in Python (I won't become a developer, but now I get what developers tell me)
-- 🗣️ I work in Italian and English, and my written English is stronger than my spoken
-- 🤝 Open to collaborate on Claude skills and automations
-- ⚡ 🏄 Windsurfing | 🍺 Craft beer | 🍎 All things Apple | 📚 Books
-
-### Where you can find me
-
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32">](https://github.com/Surfab) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32">](https://www.linkedin.com/in/fquagliocotti)
+Senior Product Owner based in Bologna, Italy, working hybrid. I bring data and AI systems into production and get tech and business teams talking. Above you'll find what I've built: Claude skills, offline-first product tools and a small daily automation. My written English is stronger than my spoken. Best way to reach me: [LinkedIn](https://www.linkedin.com/in/fquagliocotti).
