@@ -22,7 +22,7 @@
 
 ### Dove mi trovi
 
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32">](https://www.linkedin.com/in/fquagliocotti)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32">](https://github.com/Surfab) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32">](https://www.linkedin.com/in/fquagliocotti)
 
 ---
 
@@ -46,4 +46,4 @@
 
 ### Where you can find me
 
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32">](https://www.linkedin.com/in/fquagliocotti)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32">](https://github.com/Surfab) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32">](https://www.linkedin.com/in/fquagliocotti)
