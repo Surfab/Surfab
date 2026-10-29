@@ -22,7 +22,7 @@
 - 🌍 Vivo a Bologna, lavoro in ibrido
 - 🐍 Python da autodidatta (non diventerò uno sviluppatore, ma ora capisco cosa mi dicono)
 - 🗣️ Lavoro in italiano e in inglese, che scrivo meglio di quanto lo parli
-- 🤝 Aperto a nuovi ruoli e progetti da Product Owner, su prodotto, dati e AI
+- 🤝 Aperto a nuovi ruoli e progetti di prodotto, dati e AI
 - ⚡ 🏄 Windsurf | 🍺 Birra artigianale | 🍎 Mondo Apple | 📚 Libri
 
 <img src="i-got-it.gif" width="400" alt="I got it!">
@@ -36,4 +36,4 @@
 <a name="english"></a>
 ### 🇬🇧 In English
 
-Senior Product Owner based in Bologna, Italy, working hybrid. I bring data and AI systems into production and get tech and business teams talking. Above you'll find what I've built: Claude skills, offline-first product tools and a small daily automation. My written English is stronger than my spoken. Open to new Product Owner roles and projects in product, data and AI. Best way to reach me: [LinkedIn](https://www.linkedin.com/in/fquagliocotti).
+Senior Product Owner based in Bologna, Italy, working hybrid. I bring data and AI systems into production and get tech and business teams talking. Above you'll find what I've built: Claude skills, offline-first product tools and a small daily automation. My written English is stronger than my spoken. Open to new roles and projects in product, data and AI. Best way to reach me: [LinkedIn](https://www.linkedin.com/in/fquagliocotti).
