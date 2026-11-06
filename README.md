@@ -14,6 +14,7 @@
 
 - **[lead-qualifier](https://github.com/Surfab/lead-qualifier)**: decide se un potenziale cliente vale il primo contatto, con criteri fissi e fonti verificabili. `Claude` `Agent Skills`
 - **[AI Decision Tree](https://github.com/Surfab/ai-decision-tree)**: valuta se e come adottare l'AI in un processo (fit, readiness, rischio) e scrive il memo per la direzione. `HTML/JS` `offline-first` · [demo](https://surfab.github.io/ai-decision-tree/)
+- **[Product Roadmap](https://github.com/Surfab/product-roadmap-mvp)**: gestisce la roadmap per quarter o Now/Next/Later, con drag-and-drop, filtri per tag ed export JSON/PNG. `HTML/JS` `offline-first` · [demo](https://surfab.github.io/product-roadmap-mvp/)
 - **[Product Discovery Canvas](https://github.com/Surfab/product-discovery-canvas)**: porta la discovery dagli obiettivi agli esperimenti, con matrice impatto/sforzo. `HTML/JS` `offline-first` · [demo](https://surfab.github.io/product-discovery-canvas/)
 - **[Cinema a Bologna](https://github.com/Surfab/cinema-bologna)**: gli orari dei 21 cinema della città in una pagina che si aggiorna da sola due volte al giorno. `Python` `GitHub Actions` · [demo](https://surfab.github.io/cinema-bologna/)
 
