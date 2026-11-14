@@ -6,12 +6,13 @@
 
 🔭 Porto in produzione sistemi di dati e AI, in contesti dove un errore costa caro
 
-🤓 Qui trovi gli strumenti che costruisco con Claude e Python per il lavoro di tutti i giorni
+🤓 Qui trovi gli strumenti che costruisco con Claude, Claude Code e Python per il lavoro di tutti i giorni
 
 💬 Cerchi un Product Owner che faccia parlare tecnici e business? [Scrivimi su LinkedIn!](https://www.linkedin.com/in/fquagliocotti)
 
 ### 🛠️ Cosa ho costruito
 
+- **[PO Backlog Agents](https://github.com/Surfab/po-backlog-agents)**: controlla il backlog su Notion e Jira con sei agenti e propone le modifiche, ma decide il PO. Demo fintech, con test di non regressione. `Claude Code` `MCP` · [come funziona](https://surfab.github.io/po-backlog-agents/)
 - **[lead-qualifier](https://github.com/Surfab/lead-qualifier)**: decide se un potenziale cliente vale il primo contatto, con criteri fissi e fonti verificabili. `Claude` `Agent Skills`
 - **[AI Decision Tree](https://github.com/Surfab/ai-decision-tree)**: valuta se e come adottare l'AI in un processo (fit, readiness, rischio) e scrive il memo per la direzione. `HTML/JS` `offline-first` · [demo](https://surfab.github.io/ai-decision-tree/)
 - **[Product Roadmap](https://github.com/Surfab/product-roadmap-mvp)**: gestisce la roadmap per quarter o Now/Next/Later, con drag-and-drop, filtri per tag ed export JSON/PNG. `HTML/JS` `offline-first` · [demo](https://surfab.github.io/product-roadmap-mvp/)
@@ -37,4 +38,4 @@
 <a name="english"></a>
 ### 🇬🇧 In English
 
-Senior Product Owner based in Bologna, Italy, working hybrid. I bring data and AI systems into production and get tech and business teams talking. Above you'll find what I've built: Claude skills, offline-first product tools and a small daily automation. My written English is stronger than my spoken. Open to new roles and projects in product, data and AI. Best way to reach me: [LinkedIn](https://www.linkedin.com/in/fquagliocotti).
+Senior Product Owner based in Bologna, Italy, working hybrid. I bring data and AI systems into production and get tech and business teams talking. Above you'll find what I've built: Claude Code agents that review a Product Owner's backlog, Claude skills, offline-first product tools and a small daily automation. My written English is stronger than my spoken. Open to new roles and projects in product, data and AI. Best way to reach me: [LinkedIn](https://www.linkedin.com/in/fquagliocotti).
